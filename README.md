@@ -21,5 +21,10 @@ This project analyzes Malaysia house price data to uncover insights on price dis
 - Johor has the highest transaction volume, likely driven by demand from Singapore buyers
 - Penang, Johor, Selangor, and KL show many high-price outliers, indicating active luxury property markets
 
+Limitations:
+- Data is unevenly distributed across states. States with fewer listings
+  (e.g. Perlis, Labuan, Kelantan) may not be representative of
+  actual market conditions.
+
 ## Files
 - `malaysia_house_price_analysis.ipynb` — Main analysis notebook
